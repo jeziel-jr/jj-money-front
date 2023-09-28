@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "description": "Netflix",
+      "price": 45,
+      "category": "Assinatura",
+      "type": "outcome",
+      "createdAt": "2023-09-27T16:18:11.741Z",
+      "id": 6
+    },
+    {
+      "description": "Salario",
+      "price": 2200,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2023-09-27T19:05:26.895Z",
+      "id": 9
+    },
+    {
+      "description": "Prime",
+      "price": 50,
+      "category": "Assinatura",
+      "type": "income",
+      "createdAt": "2023-09-27T20:28:16.643Z",
+      "id": 10
+    },
+    {
+      "description": "Pastel",
+      "price": 20,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-27T20:29:05.337Z",
+      "id": 11
+    }
+  ]
+}
